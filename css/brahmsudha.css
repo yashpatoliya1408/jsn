@@ -1,0 +1,8 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: rgba(242, 140, 20, 0.8);
+    background-blend-mode: darken;
+}
